@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me through discord @danny_wolf
 
+This will be my journey to become a software developer.
+
